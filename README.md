@@ -37,3 +37,6 @@ Para simular o projeto, acesse o [link de simulação no Wokwi](https://wokwi.co
 ---
 
 Este é um guia básico para configurar e executar o projeto. Certifique-se de ler a documentação específica para as bibliotecas e a plataforma ESP32 para obter informações adicionais e suporte.
+
+
+LINK PARA O VIDEO NO YOUTUBE:https://youtu.be/ZNcE_TrkK0c
